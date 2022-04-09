@@ -22,7 +22,7 @@
     "jquery": "^3.3.1",
     "material-ui-pickers": "^2.1.1",
     "material-ui-repeatable": "^1.1.1",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "qtip2": "^3.0.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
